@@ -1,8 +1,8 @@
 # **Hi there 👋, I'm Yasmine Belhoudi !**
 ## 💻 **Developer | IT Enthusiast | Management**
 
-I’m a dedicated developer with a passion for crafting functional and user-centric applications. With expertise in Flutter, the MERN stack, and backend technologies .
-I combine creativity and technical skills to deliver impactful solutions for my projects.
+### I’m a dedicated developer with a passion for crafting functional and user-centric applications. With expertise in Flutter, the MERN stack, and backend technologies .
+### I combine creativity and technical skills to deliver impactful solutions for my projects.
 
 
 
@@ -35,7 +35,7 @@ I combine creativity and technical skills to deliver impactful solutions for my 
 🚀 I’m actively searching for internships, to grow my expertise and join exciting teams.
 
 
-### 📍 Based in Tunisia | 🌍 Open to global connections.
+#### 📍 Based in Tunisia | 🌍 Open to global connections.
 
 
 
