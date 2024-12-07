@@ -1,5 +1,5 @@
 # **Hi there 👋, I'm Yasmine Belhoudi !**
-💻 **Developer | IT Enthusiast | Management**
+## 💻 **Developer | IT Enthusiast | Management**
 
 I’m a dedicated developer with a passion for crafting functional and user-centric applications. With expertise in Flutter, the MERN stack, and backend technologies .
 I combine creativity and technical skills to deliver impactful solutions for my projects.
@@ -12,7 +12,7 @@ I combine creativity and technical skills to deliver impactful solutions for my 
 **🌟 Leadership**: Ex Former leader of the Tunisia 88 Music Club and trained in leadership practices .
 🎓 Currently pursuing my **Bachelor's degree in IT** , while building innovative projects and seeking enriching opportunities.
 
-# 💡 **Notable Projects:**
+## 💡 **Notable Projects:**
 
 📝 Note-Taking App: Complete CRUD functionality with user authentication.
 ✅ To-Do List App: Streamlined task management with Flutter.
