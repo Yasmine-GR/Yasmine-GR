@@ -9,9 +9,13 @@ I combine creativity and technical skills to deliver impactful solutions for my 
 ## ✨ What I bring to the table:
 
 **🌐 Web Development**: Dynamic websites and interactive experiences.
+
 **📱 Mobile App Development**: Smooth and intuitive Flutter applications.
+
 **🎨 UI/UX Design**: Creating user-friendly and visually appealing interfaces , certainly with tons of love ❤️.
+
 **🌟 Leadership**: Ex Former leader of the Tunisia 88 Music Club and trained in leadership practices .
+
 🎓 Currently pursuing my **Bachelor's degree in IT** , while building innovative projects and seeking enriching opportunities.
 
 
