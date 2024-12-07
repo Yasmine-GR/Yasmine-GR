@@ -23,9 +23,13 @@ I combine creativity and technical skills to deliver impactful solutions for my 
 ## 💡 **Notable Projects:**
 
 📝 Note-Taking App: Complete CRUD functionality with user authentication.
+
 ✅ To-Do List App: Streamlined task management with Flutter.
+
 🛒 E-Commerce App: A sleek platform for IT product sales.
+
 -- and many still in building phase , soon to see the light 🌞
+
 
 
 🚀 I’m actively searching for internships, to grow my expertise and join exciting teams.
